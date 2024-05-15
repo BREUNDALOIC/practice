@@ -1,0 +1,64 @@
+.good{
+  font-family:"Courier New", Courier, monospace;
+ font-weight: 900;
+ color:green; 
+ font-style:italic;
+}
+ div.offset{
+color:red;
+ }
+ .bad{
+  color: yellow;
+ }
+ .boy{
+  color: red;
+  text-align: center;
+ }
+ #nice{
+  color:brown;
+ }
+ div.soft{
+  color:blue;
+ }
+ div.full{
+  color:blueviolet;
+ }
+ ol.special {
+  margin: 0 1.80em 0 1.59em;
+  }
+
+a: {
+  color:red
+}
+ul {
+  list-style-position: inside;
+}
+td{
+  border: 3px solid rgb(123, 0, 255);
+}
+td{
+  padding: 1em;
+}
+th, td {
+  font-family: Georgia, "Times New Roman" , Times, serif;
+  font-size: 1.5em;
+  color: gray;
+  letter-spacing: .1em;
+  }
+  .very{
+    color: red;
+    background-color: black;
+  }
+  .submit{
+    color: blue;
+    background-color: black;
+   }
+   p {
+    color: purple;
+  }
+  div#content {
+    width: 68%;
+    }
+    div#sidebar {
+    width: 29%;
+}           
